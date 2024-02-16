@@ -1,0 +1,10 @@
+body {
+  background-color: #f9f7fe;
+}
+
+.content {
+  background-color: white;
+  padding: 20px;
+  margin: 10px 50px 10px;
+  border-radius: 10px;
+}
